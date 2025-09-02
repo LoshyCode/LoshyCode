@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="221" src="https://cdn.discordapp.com/attachments/890260980808953866/1412495594370633910/Adobe_Express_-_file.png?ex=68b88088&is=68b72f08&hm=c2aa284bd8b14fa5785257c2c16ea29fb0bcc5f01c0fc7a8c29da1c7d60d94dc&"  />
+<img align="right" height="137" src="https://cdn.discordapp.com/attachments/890260980808953866/1412495594370633910/Adobe_Express_-_file.png?ex=68b88088&is=68b72f08&hm=c2aa284bd8b14fa5785257c2c16ea29fb0bcc5f01c0fc7a8c29da1c7d60d94dc&"  />
 
 ###
 
